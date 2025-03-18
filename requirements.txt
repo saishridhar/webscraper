@@ -1,0 +1,5 @@
+mcp
+requests
+httpx
+crawl4ai
+youtube-trasncript-api
