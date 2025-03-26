@@ -1,5 +1,7 @@
-mcp
-requests
-httpx
-crawl4ai
-youtube-trasncript-api
+mcp>=1.0.0
+requests>=2.31.0
+httpx>=0.26.0
+trafilatura>=1.6.3
+youtube-transcript-api>=0.6.2
+marker>=2.1.3
+urllib3>=2.1.0
