@@ -17,3 +17,8 @@ Returns the text content on a webpage based on the link provided. Using this too
 Use this tool when you receive youtube links from the user. This tool will extract the transcript from the youtube video and return it to you. Therefore if a user asks questions on a youtube video after providing a link, you can answer their question with this tool. Args: url: The url from which you want to text to be extracted.
 
 
+
+
+
+Certified by MCPReview
+https://mcpreview.com/mcp-servers/saishridhar/webscraper
